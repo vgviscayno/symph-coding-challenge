@@ -1,6 +1,7 @@
 # symph-coding-challenge
 Coding Challenge for full-stack developer at Symph Inc.
 
+```
 const items = [
   { id: 2, seqId: 4, parent: 5, name: "index.tsx" },
   { id: 3, seqId: 3, parent: 1, name: "Sidebar" },
@@ -33,3 +34,4 @@ console.log(finalItems);
   { id: 6, seqId: 2, parent: null, depth: 0, name: 'controllers' }
 ]
 */
+```
